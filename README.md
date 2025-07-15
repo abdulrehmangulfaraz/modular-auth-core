@@ -79,7 +79,7 @@ modular-auth-core/
 git clone https://github.com/abdulrehmangulfaraz/modular-auth-core
 cd modular-auth-core
 python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
+source venv/bin/activate.ps1      # Windows: venv\Scripts\activate
 pip install -r Requirements.txt
 ```
 
